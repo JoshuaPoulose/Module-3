@@ -1,0 +1,8 @@
+package com.ust.rest.resources;
+
+@Entity
+public class User {
+	@Id
+	
+
+}

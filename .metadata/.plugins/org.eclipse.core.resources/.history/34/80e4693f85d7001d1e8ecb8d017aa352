@@ -1,0 +1,9 @@
+package com.ust.ioc;
+
+public class DBConnection implements Connection {
+	public DBConnection getConnection() {
+		System.out.println("getconnection called");
+		return new DBConnection();
+	}
+
+}

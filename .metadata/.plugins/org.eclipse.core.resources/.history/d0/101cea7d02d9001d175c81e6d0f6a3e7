@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SpringmvcApp">
+        <property name="context-root" value="SpringmvcApp"/>
+        <property name="java-output-path" value="/SpringmvcApp/build/classes"/>
+    </wb-module>
+</project-modules>

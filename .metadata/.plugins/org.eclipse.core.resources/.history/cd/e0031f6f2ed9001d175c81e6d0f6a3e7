@@ -1,0 +1,12 @@
+package our;
+
+import java.util.Arrays;
+
+public class medianofArray {
+	public static void main(String[] args) {
+		
+	
+	int a[]= {2,8,3,9,1,7};
+	Arrays.sort(a);
+}
+}
